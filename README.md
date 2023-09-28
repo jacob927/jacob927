@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Jake, and trying to catch up on the things I should have studied in college.
+
+I'm currently learning data analytics and random coding stuff.  Mainly focused on learning SQL at the moment.
+
+I'm loking for help with getting a job in data analytics/software (but I don't know enough yet to get a real job)
+
